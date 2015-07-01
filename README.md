@@ -1,5 +1,11 @@
 # test-repo
 ## test repo
 ### this is a change
-li test1
+
+
+## Data Science Specialization 
+
+* Uses R 
+* Nine courses 
+* Goes from raw data to data products
 
